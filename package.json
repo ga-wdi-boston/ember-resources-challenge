@@ -1,7 +1,7 @@
 {
-  "name": "ember-template",
+  "name": "ember-resources-diagnostic",
   "version": "0.0.0",
-  "description": "Small description for ember-template goes here",
+  "description": "Measure aptitude with creating and manipulating Ember resources",
   "private": true,
   "directories": {
     "doc": "doc",
